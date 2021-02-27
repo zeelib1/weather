@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.inputContainer i {
+  position: absolute;
+}
+.inputContainer {
+  width: 40%;
+  margin-bottom: 0.65em;
+  display: flex;
+  margin:1em auto;
+}
+@media (max-width:850px){
+  .inputContainer{
+    width: 55%;
+  }
+}
+.icon {
+  padding: 0.875em;
+  color: rgb(49, 0, 128);
+  width: 70px;
+  text-align: left;
+}
+.input-field {
+  width: 100%;
+  padding: 0.65em;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.search-button {
+  border: 1px solid lightsteelblue;
+  margin-left: -0.5em;
+  background-color: lightsteelblue;
+  color: white;
+  padding: 0.5em;
+  cursor: pointer;
+  border-top-right-radius: 0.4em;
+  border-bottom-right-radius: 0.4em;
+}
