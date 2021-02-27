@@ -1,6 +1,6 @@
 # :sunrise: Weather App  :snowflake: :droplet:
 Simple Weather App made with React.
-:point_right: [ZeeBox Live](https://zeelib.com/projects/weather-app)
+:point_right: [Weather Live](https://zeelib.com/projects/weather-app)
 
 **Tech Stack** used in this project:
 
